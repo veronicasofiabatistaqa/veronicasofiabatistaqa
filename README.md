@@ -25,11 +25,11 @@
 
 ---
 
-### 🧠 Sobre mí
+### :bar_chart: Sobre mí
 
 Soy QA Analyst y Tester Funcional especializada en analítica digital. Me apasiona asegurar no solo que las aplicaciones funcionen, sino que los **datos sean confiables** y aporten valor. Trabajo con herramientas como GA4, GTM, Cypress, Jira y XRay en entornos ágiles (Scrum y Kanban).
 
-> 📍 Barcelona, España | 🌍 Nacionalidad Italiana | 🗣 Español e Italiano
+> 📍Residencia legal: Barcelona, España | 🛂 Ciudadania: Italiana | :blue_heart: Nacionalidad: Argentina | 🗣 Español e Italiano
 
 ---
 
