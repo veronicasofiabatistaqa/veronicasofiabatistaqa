@@ -1,5 +1,5 @@
 <h1 align="center">👩‍💻 Verónica Sofia Batista</h1>
-<h3 align="center" style="color: orange;">QA Analyst • QA Automatíon • Bloguera de QA</h3>
+<h3 align="center" style="color: orange;">QA Analyst • QA Automation • Bloguera de QA</h3>
 
 <p align="center">
   <a href="https://veronicasofiabatista.es" target="_blank">
