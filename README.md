@@ -13,10 +13,14 @@
   </a>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=verobatistaQA&show_icons=true&theme=tokyonight&title_color=orange&icon_color=orange" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=veronicasofiabatistaQA&show_icons=true&theme=tokyonight&title_color=orange&icon_color=orange" alt="Stats" />
 </p>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/veronica-sofia-batista/)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
 
 
 ---
