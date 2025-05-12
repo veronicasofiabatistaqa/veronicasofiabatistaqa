@@ -27,7 +27,7 @@
 
 ### :bar_chart: Sobre mí
 
-Soy QA Analyst y Tester Funcional especializada en analítica digital. Me apasiona asegurar no solo que las aplicaciones funcionen, sino que los **datos sean confiables** y aporten valor. Trabajo con herramientas como GA4, GTM, Cypress, Jira y XRay en entornos ágiles (Scrum y Kanban).
+Soy QA Analyst (enfocada en analítica digital), Tester Funcional y QA Automation (en proceso de aprendizaje). Me apasiona asegurar no solo que las aplicaciones funcionen, sino que los **datos sean confiables** , sean accesibles y aporten valor. Trabajo con herramientas como GA4, GTM, Cypress, Jira y XRay en entornos ágiles (Scrum y Kanban). Me estoy formando en Lenguaje de Programación Web en FUNDAE.
 
 > 📍Residencia legal: Barcelona, España | 🛂 Ciudadania: Italiana | :blue_heart: Nacionalidad: Argentina | 🗣 Español e Italiano
 
@@ -35,7 +35,7 @@ Soy QA Analyst y Tester Funcional especializada en analítica digital. Me apasio
 
 ### 🔍 Qué encontrarás en mi perfil
 
-- 🚀 Proyectos de pruebas automatizadas (Cypress, Playwright)
+- 🚀 Proyectos de pruebas automatizadas (Cypress y Playwright)
 - 🧪 Validación de analítica digital (GA4, Debugger, Tag Assistant)
 - 📊 Automatización y testing de datos
 - ✍️ Artículos sobre QA y analytics en mi [blog](https://veronicasofiabatista.es)
@@ -46,8 +46,8 @@ Soy QA Analyst y Tester Funcional especializada en analítica digital. Me apasio
 
 ```html
 Frontend: HTML • CSS • JS
-Backend: Node.js • PHP • Python • SQL
-Herramientas QA: Cypress • Charles Proxy • XRay • Jira • Notion • Qase
+Backend: Node.js • PHP • Python • Java •SQL
+Herramientas QA: Cypress • Playwright • Charles Proxy • XRay • Jira • Notion • Qase
 Analítica: GA4 • GTM • Datalayer • Debugger Analytics
 
 
