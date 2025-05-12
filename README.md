@@ -27,7 +27,7 @@
 
 ### :bar_chart: Sobre mí
 
-Soy QA Analyst (enfocada en analítica digital), Tester Funcional y QA Automation (en proceso de aprendizaje). Me apasiona asegurar no solo que las aplicaciones funcionen, sino que los **datos sean confiables** , sean accesibles y aporten valor. Trabajo con herramientas como GA4, GTM, Cypress, Jira y XRay en entornos ágiles (Scrum y Kanban). Me estoy formando en Lenguaje de Programación Web en FUNDAE.
+Soy QA Analyst (enfocada en analítica digital), Tester Funcional y QA Automation (en proceso de aprendizaje). Me apasiona asegurar no solo que las aplicaciones funcionen, sino que los **datos sean confiables**, sean accesibles y aporten valor. Trabajo con herramientas como GA4, GTM, Cypress, Jira y XRay en entornos ágiles (Scrum y Kanban). Me estoy formando en Lenguaje de Programación Web en FUNDAE.
 
 > 📍Residencia legal: Barcelona, España | 🛂 Ciudadania: Italiana | :blue_heart: Nacionalidad: Argentina | 🗣 Español e Italiano
 
